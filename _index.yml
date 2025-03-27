@@ -1,19 +1,19 @@
 ---
 indexpage:
-  title: Documentation du logiciel SANtricity 11.80
+  title: Documentation du logiciel SANtricity 11.8
   summary: SANtricity System Manager et Unified Manager
   keywords: santricity, all-flash arrays, heavy workload applications, video surveillance,
     data analytics
-  lead: Avec le logiciel SANtricity 11.80, vous exploitez tout le potentiel de vos
+  lead: Avec le logiciel SANtricity 11.8, vous exploitez tout le potentiel de vos
     baies Flash hybrides E-Series et 100 % Flash EF-Series pour les applications à
     forte charge de travail, notamment l'analytique, la vidéosurveillance, la sauvegarde
     et la restauration.
   tiles:
   - title: Commencez
     links:
-    - title: Interface de System Manager
+    - title: Interface SANtricity System Manager
       url: /sm-interface/overview-interface-sam.html"
-    - title: Interface Unified Manager
+    - title: Interface SANtricity Unified Manager
       url: "/um-admin/overview-interface-unified.html"
     - title: Fiche technique du logiciel SANtricity
       url: https://www.netapp.com/pdf.html?item=/media/7676-ds-3891.pdf
